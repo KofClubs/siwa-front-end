@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# OSX leaves these everywhere on SMB shares
+._*
+
+# OSX trash
+.DS_Store
+
+# GoLand trash
+.idea/
